@@ -70,3 +70,6 @@ var styles = StyleSheet.create({
 - `colorDark: PropTypes.string [default:"#000000"]`
 - `colorLight: PropTypes.string [default:"#ffffff"]`
 - `correctLevel: PropTypes.number [default:QRCode.QRErrorCorrectLevel.H] see index.js for detail`
+
+### thanks
+* this project come from https://github.com/davidshimjs/qrcodejs
